@@ -1,0 +1,7 @@
+<svg id="Component_665_23" data-name="Component 665 – 23" xmlns="http://www.w3.org/2000/svg" width="55" height="65" viewBox="0 0 55 65">
+  <path id="Path_393" data-name="Path 393" d="M10,0A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" transform="translate(48 20) rotate(180)" fill="#a3a3a3"/>
+  <path id="Path_474" data-name="Path 474" d="M187.44,111.076a.5.5,0,0,0-.223-.416l-4.566-3.08a.511.511,0,0,0-.567,0l-4.536,3.08a.505.505,0,0,0,0,.836l2.171,1.463,2.394,1.617a.5.5,0,0,0,.285.085.517.517,0,0,0,.282-.085l2.086-1.417,1.266.856-3.65,2.466-3.65-2.47.426-.289a.511.511,0,1,0-.567-.849l-1.043.722a.505.505,0,0,0,0,.836l4.565,3.08h0a.515.515,0,0,0,.567,0l4.536-3.08h0a.505.505,0,0,0,0-.836l-1.555-1.049,1.551-1.053a.5.5,0,0,0,.226-.416Zm-2.952,1.049-2.105,1.42-2.1-1.423-1.551-1.046,3.65-2.466,3.664,2.47Z" transform="translate(-144.326 -102.986)" fill="#fff"/>
+  <path id="Path_500" data-name="Path 500" d="M99,0h33a11,11,0,0,1,11,11V24a11,11,0,0,1-11,11H99A11,11,0,0,1,88,24V11A11,11,0,0,1,99,0Z" transform="translate(-88 30)" fill="#a3a3a3"/>
+  <path id="Polygon_5" data-name="Polygon 5" d="M7,0l7,6H0Z" transform="translate(31 25)" fill="#a3a3a3"/>
+  <text id="Paste" transform="translate(12 52)" fill="#fff" font-size="12" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0">Paste</tspan></text>
+</svg>

@@ -1,0 +1,7 @@
+<svg id="Component_746_1" data-name="Component 746 – 1" xmlns="http://www.w3.org/2000/svg" width="45" height="65" viewBox="0 0 45 65">
+  <path id="Path_393" data-name="Path 393" d="M10,0A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" transform="translate(38 20) rotate(180)" fill="#a3a3a3"/>
+  <path id="Path_502" data-name="Path 502" d="M148.116,73.87,143.394,78.6a.215.215,0,0,0-.061.122l-.315,2.208a.323.323,0,0,0,.322.369h.041l2.246-.279a.215.215,0,0,0,.126-.061l4.717-4.729a1.665,1.665,0,1,0-2.353-2.356ZM145.5,80.6l-2.033.252.285-2L147.9,74.7l1.746,1.747Zm5.035-5.548a1.229,1.229,0,0,1-.362.874l-.215.215L148.2,74.391l.215-.215a1.235,1.235,0,0,1,2.113.871Z" transform="translate(-118.516 -66.87)" fill="#fff" stroke="#fff" stroke-width="0.6"/>
+  <path id="Path_627" data-name="Path 627" d="M109,0h23a11,11,0,0,1,11,11V24a11,11,0,0,1-11,11H109A11,11,0,0,1,98,24V11A11,11,0,0,1,109,0Z" transform="translate(-98 30)" fill="#a3a3a3"/>
+  <path id="Polygon_15" data-name="Polygon 15" d="M7,0l7,6H0Z" transform="translate(21 25)" fill="#a3a3a3"/>
+  <text id="Edit" transform="translate(12 52)" fill="#fff" font-size="12" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0">Edit</tspan></text>
+</svg>

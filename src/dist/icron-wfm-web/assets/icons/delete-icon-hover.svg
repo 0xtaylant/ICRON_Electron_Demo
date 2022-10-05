@@ -1,0 +1,11 @@
+<svg id="Component_747_1" data-name="Component 747 – 1" xmlns="http://www.w3.org/2000/svg" width="55" height="65" viewBox="0 0 55 65">
+  <path id="Path_393" data-name="Path 393" d="M10,0A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" transform="translate(48 20) rotate(180)" fill="#a3a3a3"/>
+  <g id="Group_2998" data-name="Group 2998" transform="translate(-1624.5 -912.457)">
+    <path id="Path_503" data-name="Path 503" d="M147.76,36.687h-1.687v-.675A1.012,1.012,0,0,0,145.061,35h-2.024a1.012,1.012,0,0,0-1.012,1.012v.675h-1.687a.337.337,0,0,0,0,.675h.337v6.073a1.012,1.012,0,0,0,1.012,1.012h4.724a1.012,1.012,0,0,0,1.012-1.012V37.362h.337a.337.337,0,1,0,0-.675Zm-5.061-.675a.337.337,0,0,1,.337-.337h2.024a.337.337,0,0,1,.337.337v.675h-2.7Zm4.049,7.423a.337.337,0,0,1-.337.337h-4.724a.337.337,0,0,1-.337-.337V37.362h5.4Z" transform="translate(1518.5 882.457)" fill="#fff" stroke="#fff" stroke-width="0.4"/>
+    <path id="Path_504" data-name="Path 504" d="M385.337,227.5a.337.337,0,0,0-.337.337v3.037a.337.337,0,1,0,.675,0v-3.037a.337.337,0,0,0-.337-.337Z" transform="translate(1278.224 693.668)" fill="#fff" stroke="#fff" stroke-width="0.4"/>
+    <path id="Path_505" data-name="Path 505" d="M280.337,227.5a.337.337,0,0,0-.337.337v3.037a.337.337,0,1,0,.675,0v-3.037a.337.337,0,0,0-.337-.337Z" transform="translate(1381.199 693.668)" fill="#fff" stroke="#fff" stroke-width="0.4"/>
+  </g>
+  <path id="Path_628" data-name="Path 628" d="M99,0h33a11,11,0,0,1,11,11V24a11,11,0,0,1-11,11H99A11,11,0,0,1,88,24V11A11,11,0,0,1,99,0Z" transform="translate(-88 30)" fill="#a3a3a3"/>
+  <path id="Polygon_16" data-name="Polygon 16" d="M7,0l7,6H0Z" transform="translate(31 25)" fill="#a3a3a3"/>
+  <text id="Delete" transform="translate(9 52)" fill="#fff" font-size="12" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0">Delete</tspan></text>
+</svg>

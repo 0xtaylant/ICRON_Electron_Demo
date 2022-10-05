@@ -1,0 +1,10 @@
+<svg id="Component_641_31" data-name="Component 641 – 31" xmlns="http://www.w3.org/2000/svg" width="55" height="65" viewBox="0 0 55 65">
+  <path id="Path_393" data-name="Path 393" d="M10,0A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" transform="translate(48 20) rotate(180)" fill="#a3a3a3"/>
+  <g id="noun-copy-4651767" transform="translate(-68.176 -26.177)">
+    <path id="Path_470" data-name="Path 470" d="M106.446,188.3h-3.734a1.6,1.6,0,0,0-1.6,1.6v3.734a1.6,1.6,0,0,0,1.6,1.6h3.734a1.6,1.6,0,0,0,1.6-1.6V189.9a1.6,1.6,0,0,0-1.6-1.6Zm.533,5.334a.534.534,0,0,1-.533.533h-3.734a.534.534,0,0,1-.533-.533V189.9a.534.534,0,0,1,.533-.533h3.734a.534.534,0,0,1,.533.533Z" transform="translate(0 -153.99)" fill="#fff" stroke="#a3a3a3" stroke-width="0.1"/>
+    <path id="Path_471" data-name="Path 471" d="M263.636,31.109H259.9a1.6,1.6,0,0,0-1.6,1.6v.533a.533.533,0,0,0,1.067,0v-.533a.534.534,0,0,1,.533-.533h3.734a.534.534,0,0,1,.533.533v3.734a.534.534,0,0,1-.533.533H263.1a.533.533,0,0,0,0,1.067h.533a1.6,1.6,0,0,0,1.6-1.6V32.709a1.6,1.6,0,0,0-1.6-1.6Z" transform="translate(-153.989 0)" fill="#fff" stroke="#a3a3a3" stroke-width="0.1"/>
+  </g>
+  <path id="Path_500" data-name="Path 500" d="M99,0h33a11,11,0,0,1,11,11V24a11,11,0,0,1-11,11H99A11,11,0,0,1,88,24V11A11,11,0,0,1,99,0Z" transform="translate(-88 30)" fill="#a3a3a3"/>
+  <path id="Polygon_5" data-name="Polygon 5" d="M7,0l7,6H0Z" transform="translate(31 25)" fill="#a3a3a3"/>
+  <text id="Copy" transform="translate(13 52)" fill="#fff" font-size="12" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0">Copy</tspan></text>
+</svg>
