@@ -1,7 +1,7 @@
 {
   "name": "electron_forge_demo",
   "productName": "electron_forge_demo",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "description": "My Electron application description",
   "main": "src/index.js",
   "scripts": {

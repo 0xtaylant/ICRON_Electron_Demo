@@ -1,8 +1,6 @@
 const { app, BrowserWindow } = require('electron');
 const path = require('path');
-require('update-electron-app')({
-    repo: '0xtaylant/ICRON_Electron_Demo',
-})
+
 // Handle creating/removing shortcuts on Windows when installing/uninstalling.
 // eslint-disable-next-line global-require
 if (require('electron-squirrel-startup')) {
@@ -12,8 +10,8 @@ if (require('electron-squirrel-startup')) {
 const createWindow = () => {
   // Create the browser window.
   const mainWindow = new BrowserWindow({
-    width: 800,
-    height: 600,
+    width: 1980,
+    height: 1080,
     autoHideMenuBar: true,
     webPreferences: {
       preload: path.join(__dirname, 'preload.js'),
@@ -40,7 +38,11 @@ app.on('window-all-closed', () => {
     app.quit();
   }
 });
-
+require('update-electron-app')({
+    repo: '0xtaylant/ICRON_Electron_Demo',
+    updateInterval: '5 minutes',
+    notifyUser: true
+})
 app.on('activate', () => {
   // On OS X it's common to re-create a window in the app when the
   // dock icon is clicked and there are no other windows open.
